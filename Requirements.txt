@@ -1,1 +1,14 @@
+fastapi
+uvicorn
+pydantic
 
+numpy
+pandas
+
+scikit-learn
+lightgbm
+xgboost
+shap
+
+joblib
+matplotlib
